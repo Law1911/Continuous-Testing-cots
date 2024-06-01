@@ -14,7 +14,7 @@ public class Driver {
 		
 		counter.kalikanDengan(2);
 		
-		System.out.println("Hasil :" + counter.getHasil());
+		System.out.println("Hasil :"  + counter.getHasil());
 		
 	}
 
